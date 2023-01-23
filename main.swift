@@ -1,3 +1,4 @@
+// This can be any positive integer
 var number = 22423
 
 var one = 1
